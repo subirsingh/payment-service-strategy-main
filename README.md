@@ -2,9 +2,7 @@
 This project demonstrates the strategy design pattern using Java and Spring Boot. The Strategy pattern is a behavioral design pattern that enables selecting an algorithm’s behavior at runtime. In this project, different payment services (such as credit card, PayPal, etc.) can be implemented and dynamically chosen based on the context, following the Strategy pattern.
 
 Here’s a detailed explanation of the `payment-service-strategy-main` project, highlighting its structure, design, and code details based on its use of the Strategy Design Pattern for payment processing in a Spring Boot application.
-
 ---
-
 ## Project Purpose
 
 This project demonstrates how to implement the Strategy Pattern in a Java Spring Boot application to handle different payment methods (like Credit Card and PayPal) in a modular and extensible way.
